@@ -1,2 +1,2 @@
 # hello_word
-the first commit
+the second commit
